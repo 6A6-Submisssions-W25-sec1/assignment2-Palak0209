@@ -71,7 +71,6 @@
 	<ItemGroup>
 	  <Folder Include="DataRepos\" />
 	  <Folder Include="Converters\" />
-	  <Folder Include="Views\" />
 	</ItemGroup>
 
 </Project>
